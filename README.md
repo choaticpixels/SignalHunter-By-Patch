@@ -3,6 +3,9 @@
 # 📡 SignalHunter
 ### *by Patch*
 
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/9f828b6c-ff85-424c-9e1b-3dd7d4c87743" />
+
+
 **A pocket-sized BLE & WiFi field scanner for the ESP32 "Cheap Yellow Display"**
 
 ![Platform](https://img.shields.io/badge/platform-ESP32-orange?style=flat-square)
